@@ -1,2 +1,2 @@
 Pedro Henrique de Souza.
-Olá eu sou o Pedro.
+Projeto destinado ao aprendizado da plataforma GitHub.
